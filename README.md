@@ -447,6 +447,6 @@ In your message log channel, if you turned on <i>Logging → Deleted messages</i
 
 <div align="center">
 
-Made with ❤️ by **Team Forge Management** · © 2026 CoreXDev
+Made with ❤️ by **Team Forge Management** · © 2025 CoreXDev
 
 </div>
